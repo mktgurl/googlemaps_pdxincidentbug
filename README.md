@@ -5,3 +5,6 @@ Been trying to figure out how to get persistent traffic incidents removed from G
 Specifically, construction reported by WSDOT and accidents near Tacoma/Boeing have been
 showing up on Interstate 5 between Vancouver, WA and Portland, OR mapping software. I
 first saw this behavior in mid-January 2015.
+
+If you navigate on Google Maps to "133 exit, Tacoma WA" and also to "Portland, OR" you'll 
+see that this traffic alert shows up at both locations.
