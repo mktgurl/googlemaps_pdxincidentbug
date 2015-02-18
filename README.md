@@ -12,5 +12,4 @@ see that this traffic alert shows up at both locations.
 Looked at Bing Maps for comparison, and the closed road for Exit 133 in Tacoma, WA only
 exists in Tacoma, WA.
 
-Suspected inbound reporting sources: WA Dept of Transportation, Waze app, and however else
-road incidents get published on Google Maps.
+Also, WA DOT (http://www.wsdot.com/traffic/) and OR Trip Check (http://www.tripcheck.com/Pages/RCMap.asp?curRegion=1) websites do not show this incident on their native systems, respectively.
