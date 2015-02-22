@@ -15,3 +15,5 @@ exists in Tacoma, WA.
 Also, WA DOT (http://www.wsdot.com/traffic/) and OR Trip Check (http://www.tripcheck.com/Pages/RCMap.asp?curRegion=1) websites do not show this incident on their native systems, respectively.
 
 I submitted feedback through Google Maps about this alert notification behavior.
+
+2015-02-22: Not much has changed, the Exit 133 Tacoma incident still persists. No feedback from GoogleMaps.
