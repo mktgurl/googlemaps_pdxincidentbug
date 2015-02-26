@@ -17,3 +17,11 @@ Also, WA DOT (http://www.wsdot.com/traffic/) and OR Trip Check (http://www.tripc
 I submitted feedback through Google Maps about this alert notification behavior.
 
 2015-02-22: Not much has changed, the Exit 133 Tacoma incident still persists. No feedback from GoogleMaps.
+
+2015-02-25: Got a response from Google Maps which reads: 
+
+"Thank you for reporting this problem. Unfortunately, for various reasons, the problem you reported isn't easy for us to fix at this time. We did want to let you know that we've escalated your report to the appropriate engineering team. Even though we don't have an immediate fix to your problem, please be assured that we're working hard for a resolution. 
+
+Thanks for helping us to improve Google Maps!"
+
+2015-02-26: Still persists, except reported accidents in Tacoma are now appearing in Portland; not just road closures.
