@@ -25,3 +25,5 @@ I submitted feedback through Google Maps about this alert notification behavior.
 Thanks for helping us to improve Google Maps!"
 
 2015-02-26: Still persists, except reported accidents in Tacoma are now appearing in Portland; not just road closures.
+
+2015-03-04: Looks resolved? Checked Google Maps for the I-5 bridge crossing between Portland and Vancouver. No flags, no accident incidents. Checked with, without, and typical traffic.
