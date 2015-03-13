@@ -27,3 +27,5 @@ Thanks for helping us to improve Google Maps!"
 2015-02-26: Still persists, except reported accidents in Tacoma are now appearing in Portland; not just road closures.
 
 2015-03-04: Looks resolved? Checked Google Maps for the I-5 bridge crossing between Portland and Vancouver. No flags, no accident incidents. Checked with, without, and typical traffic.
+
+2015-03-12: Checked traffic using Chrome Google Maps and iOS 8 phone. Haven't seen any wrong incident reporting at the PDX/SW Washington bridge crossings.
